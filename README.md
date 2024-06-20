@@ -2,6 +2,11 @@
 # Overview:
 This project is a File Compressor application built with a graphical user interface (GUI) using the Qt framework. The application allows users to compress and decompress files efficiently, providing a user-friendly interface for managing file compression tasks.
 
+# Installation
+Download all files in one folder
+
+Run the "File_compressor.exe" file in debug folder.
+
 # Key Features:
 
 Intuitive GUI: The application features a clean and intuitive interface designed with Qt, making it accessible and easy to use for all users.
